@@ -1,2 +1,2 @@
 # Transformer-Architecture
-This repo contains step by step building of the Transfomers Architecture
+This repo contains the step by step building of the Transfomers Architecture
